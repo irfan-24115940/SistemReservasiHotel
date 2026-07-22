@@ -1,7 +1,12 @@
 -- =============================================================================
 -- SISTEM RESERVASI HOTEL
 -- Database Engine: PostgreSQL
--- Author: M. Irfan Amelianso, M. Dhani Favian, Sultan Syekhu Aly Wafa, Andika Cavello B.
+-- Author: 
+-- 	M. Irfan Amelianso 	24.11.5940
+-- 	M. Dhani Favian 	24.11.5944
+-- 	Sultan Syekhu Aly Wafa  24.11.5957
+-- 	Andika Cavello B 	24.11.5950
+
 -- Universitas Amikom Yogyakarta (2026)
 -- =============================================================================
 
