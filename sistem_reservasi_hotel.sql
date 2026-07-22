@@ -1,17 +1,10 @@
 -- =============================================================================
--- LAPORAN UAS PEMROGRAMAN BASIS DATA - SISTEM RESERVASI HOTEL
+-- SISTEM RESERVASI HOTEL
 -- Database Engine: PostgreSQL
 -- Author: M. Irfan Amelianso, M. Dhani Favian, Sultan Syekhu Aly Wafa, Andika Cavello B.
--- Universitas Amikom Yogyakarta (2025)
+-- Universitas Amikom Yogyakarta (2026)
 -- =============================================================================
 
--- =============================================================================
--- BAB 2: DDL & SEEDING DATA UTAMA
--- =============================================================================
-
--- -----------------------------------------------------------------------------
--- 2.2 Kode DDL (Data Definition Language)
--- -----------------------------------------------------------------------------
 
 -- 1. Tabel Master Tamu
 CREATE TABLE tamu (
